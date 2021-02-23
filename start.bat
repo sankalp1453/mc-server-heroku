@@ -1,0 +1,1 @@
+java -Xmx16G -Xms16G -jar server.jar no gui
